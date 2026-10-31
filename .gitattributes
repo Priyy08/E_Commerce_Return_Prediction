@@ -1,1 +1,2 @@
 dataset/Dataset[[:space:]]3/ecommerce_orders_dataset_50L.csv filter=lfs diff=lfs merge=lfs -text
+notebooks/cleaned_ecommerce_orders.parquet filter=lfs diff=lfs merge=lfs -text
